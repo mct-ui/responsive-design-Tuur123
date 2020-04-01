@@ -5,10 +5,14 @@
 */
 
 .u-color-primary-light {
+    color: #5051DB;
 }
 
 .u-color-primary-base {
+    color: #202024;
+
+}
+.u-color-primary-dark {
+    color: #3E3EA8;
 }
 
-.u-color-primary-dark {
-}
